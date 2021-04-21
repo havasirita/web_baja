@@ -1,0 +1,12 @@
+h1 szöveg színe:
+rgb(9, 75, 20);
+háttér: rgba(255, 255, 255, 0.6)    /*40%-ban átlátszó fehér háttér lesz*/
+
+labléc háttérszíne:
+rgb(9, 75, 20);
+
+fejléc :
+magasága: 200px
+background-pisition: center center;
+
+body: 70% széles
