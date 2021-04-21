@@ -47,3 +47,27 @@ h3{
 p{
     text-align: justify;
 }
+ul{
+    padding-top:10px;
+}
+li{
+    display: inline;
+   
+}
+
+li a{
+    display: inline;
+    background-color:rgb(9, 75, 20);
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    padding-top:10px;
+}
+
+li a:hover{
+    background-color:white;
+    color:rgb(9, 75, 20);
+    text-decoration: none;
+    border:1px solid rgb(9, 75, 20);
+}
